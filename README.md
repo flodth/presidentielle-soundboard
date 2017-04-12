@@ -1,3 +1,5 @@
+Sur un fork de https://github.com/2ec0b4/kaamelott-soundboard et de sa géniale osoundboard!
+
 # Kaamelott Soundboard #
 
 Alors, j'ai fait deux fois le tour des Internets pour être sûr, eh ben croyez-moi, croyez-moi pas, je n'ai pas trouvé de plateforme regroupant des répliques sonores de Kaamelott.
